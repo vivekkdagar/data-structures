@@ -34,7 +34,6 @@ add_executable(cpp main.cpp
         string/LexicographicalCompare.cpp
         string/Palindrome.cpp
         string/Permutation.cpp
-        recursion/Factorial.cpp
         recursion/Fibonacci.cpp
         recursion/TaylorSeries.cpp
         recursion/Power.cpp
@@ -45,4 +44,18 @@ add_executable(cpp main.cpp
         recursion/StaticGlobal.cpp
         recursion/TailHeadRecursion.cpp
         recursion/TowerOfHanoi.cpp
-        recursion/TreeRecursion.cpp)
+        recursion/TreeRecursion.cpp
+        array/implementation/Array.h
+        array/problems/RearrangeNegatives.cpp
+        array/problems/ReverseAndShift.cpp
+        array/set/USet.h
+        array/set/USet.cpp
+        "array/student challenge/1.cpp"
+        "array/student challenge/2.cpp"
+        "array/student challenge/3.cpp"
+        "array/student challenge/4.cpp"
+        "array/student challenge/5.cpp"
+        polynomial/array/PolyArr.cpp
+        polynomial/array/PolyArr.h
+        "polynomial/linked list/PolyLL.cpp"
+        "polynomial/linked list/PolyLL.h")

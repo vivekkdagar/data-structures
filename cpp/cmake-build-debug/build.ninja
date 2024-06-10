@@ -205,12 +205,6 @@ build CMakeFiles/cpp.dir/string/Permutation.cpp.o: CXX_COMPILER__cpp_unscanned_D
   OBJECT_DIR = CMakeFiles/cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp.dir/string
 
-build CMakeFiles/cpp.dir/recursion/Factorial.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/recursion/Factorial.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/recursion/Factorial.cpp.o.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/recursion
-
 build CMakeFiles/cpp.dir/recursion/Fibonacci.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/recursion/Fibonacci.cpp || cmake_object_order_depends_target_cpp
   DEP_FILE = CMakeFiles/cpp.dir/recursion/Fibonacci.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
@@ -277,6 +271,66 @@ build CMakeFiles/cpp.dir/recursion/TreeRecursion.cpp.o: CXX_COMPILER__cpp_unscan
   OBJECT_DIR = CMakeFiles/cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp.dir/recursion
 
+build CMakeFiles/cpp.dir/array/problems/RearrangeNegatives.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/problems/RearrangeNegatives.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/problems/RearrangeNegatives.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/problems
+
+build CMakeFiles/cpp.dir/array/problems/ReverseAndShift.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/problems/ReverseAndShift.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/problems/ReverseAndShift.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/problems
+
+build CMakeFiles/cpp.dir/array/set/USet.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/set/USet.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/set/USet.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/set
+
+build CMakeFiles/cpp.dir/array/student_challenge/1.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/student$ challenge/1.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/student_challenge/1.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/student_challenge
+
+build CMakeFiles/cpp.dir/array/student_challenge/2.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/student$ challenge/2.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/student_challenge/2.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/student_challenge
+
+build CMakeFiles/cpp.dir/array/student_challenge/3.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/student$ challenge/3.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/student_challenge/3.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/student_challenge
+
+build CMakeFiles/cpp.dir/array/student_challenge/4.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/student$ challenge/4.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/student_challenge/4.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/student_challenge
+
+build CMakeFiles/cpp.dir/array/student_challenge/5.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/array/student$ challenge/5.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/array/student_challenge/5.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/array/student_challenge
+
+build CMakeFiles/cpp.dir/polynomial/array/PolyArr.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/polynomial/array/PolyArr.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/polynomial/array/PolyArr.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/polynomial/array
+
+build CMakeFiles/cpp.dir/polynomial/linked_list/PolyLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/polynomial/linked$ list/PolyLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/polynomial/linked_list/PolyLL.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/polynomial/linked_list
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpp
@@ -285,7 +339,7 @@ build CMakeFiles/cpp.dir/recursion/TreeRecursion.cpp.o: CXX_COMPILER__cpp_unscan
 #############################################
 # Link the executable cpp
 
-build cpp: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/linked_list/types/singly/SinglyLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/doubly/DoublyLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/circular/CircularLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/circular_doubly/CDoublyLL.cpp.o CMakeFiles/cpp.dir/linked_list/problems/MergeTwoSortedLL.cpp.o CMakeFiles/cpp.dir/linked_list/problems/ReverseLLRecur.cpp.o CMakeFiles/cpp.dir/linked_list/problems/SortedLL.cpp.o CMakeFiles/cpp.dir/sorting/BubbleSort.cpp.o CMakeFiles/cpp.dir/sorting/BucketSort.cpp.o CMakeFiles/cpp.dir/sorting/CountSort.cpp.o CMakeFiles/cpp.dir/sorting/InsertionSort.cpp.o CMakeFiles/cpp.dir/sorting/MergeSort.cpp.o CMakeFiles/cpp.dir/sorting/QuickSort.cpp.o CMakeFiles/cpp.dir/sorting/RadixSort.cpp.o CMakeFiles/cpp.dir/sorting/SelectionSort.cpp.o CMakeFiles/cpp.dir/sorting/ShellSort.cpp.o CMakeFiles/cpp.dir/graph/traversal/Graph.cpp.o CMakeFiles/cpp.dir/graph/kruskals.cpp.o CMakeFiles/cpp.dir/graph/prims.cpp.o CMakeFiles/cpp.dir/string/Anagram.cpp.o CMakeFiles/cpp.dir/string/FindDuplicates.cpp.o CMakeFiles/cpp.dir/string/InvertCase.cpp.o CMakeFiles/cpp.dir/string/LexicographicalCompare.cpp.o CMakeFiles/cpp.dir/string/Palindrome.cpp.o CMakeFiles/cpp.dir/string/Permutation.cpp.o CMakeFiles/cpp.dir/recursion/Factorial.cpp.o CMakeFiles/cpp.dir/recursion/Fibonacci.cpp.o CMakeFiles/cpp.dir/recursion/TaylorSeries.cpp.o CMakeFiles/cpp.dir/recursion/Power.cpp.o CMakeFiles/cpp.dir/recursion/SumOfN.cpp.o CMakeFiles/cpp.dir/recursion/IndirectRecursion.cpp.o CMakeFiles/cpp.dir/recursion/NCR.cpp.o CMakeFiles/cpp.dir/recursion/NestedRecursion.cpp.o CMakeFiles/cpp.dir/recursion/StaticGlobal.cpp.o CMakeFiles/cpp.dir/recursion/TailHeadRecursion.cpp.o CMakeFiles/cpp.dir/recursion/TowerOfHanoi.cpp.o CMakeFiles/cpp.dir/recursion/TreeRecursion.cpp.o
+build cpp: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/linked_list/types/singly/SinglyLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/doubly/DoublyLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/circular/CircularLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/circular_doubly/CDoublyLL.cpp.o CMakeFiles/cpp.dir/linked_list/problems/MergeTwoSortedLL.cpp.o CMakeFiles/cpp.dir/linked_list/problems/ReverseLLRecur.cpp.o CMakeFiles/cpp.dir/linked_list/problems/SortedLL.cpp.o CMakeFiles/cpp.dir/sorting/BubbleSort.cpp.o CMakeFiles/cpp.dir/sorting/BucketSort.cpp.o CMakeFiles/cpp.dir/sorting/CountSort.cpp.o CMakeFiles/cpp.dir/sorting/InsertionSort.cpp.o CMakeFiles/cpp.dir/sorting/MergeSort.cpp.o CMakeFiles/cpp.dir/sorting/QuickSort.cpp.o CMakeFiles/cpp.dir/sorting/RadixSort.cpp.o CMakeFiles/cpp.dir/sorting/SelectionSort.cpp.o CMakeFiles/cpp.dir/sorting/ShellSort.cpp.o CMakeFiles/cpp.dir/graph/traversal/Graph.cpp.o CMakeFiles/cpp.dir/graph/kruskals.cpp.o CMakeFiles/cpp.dir/graph/prims.cpp.o CMakeFiles/cpp.dir/string/Anagram.cpp.o CMakeFiles/cpp.dir/string/FindDuplicates.cpp.o CMakeFiles/cpp.dir/string/InvertCase.cpp.o CMakeFiles/cpp.dir/string/LexicographicalCompare.cpp.o CMakeFiles/cpp.dir/string/Palindrome.cpp.o CMakeFiles/cpp.dir/string/Permutation.cpp.o CMakeFiles/cpp.dir/recursion/Fibonacci.cpp.o CMakeFiles/cpp.dir/recursion/TaylorSeries.cpp.o CMakeFiles/cpp.dir/recursion/Power.cpp.o CMakeFiles/cpp.dir/recursion/SumOfN.cpp.o CMakeFiles/cpp.dir/recursion/IndirectRecursion.cpp.o CMakeFiles/cpp.dir/recursion/NCR.cpp.o CMakeFiles/cpp.dir/recursion/NestedRecursion.cpp.o CMakeFiles/cpp.dir/recursion/StaticGlobal.cpp.o CMakeFiles/cpp.dir/recursion/TailHeadRecursion.cpp.o CMakeFiles/cpp.dir/recursion/TowerOfHanoi.cpp.o CMakeFiles/cpp.dir/recursion/TreeRecursion.cpp.o CMakeFiles/cpp.dir/array/problems/RearrangeNegatives.cpp.o CMakeFiles/cpp.dir/array/problems/ReverseAndShift.cpp.o CMakeFiles/cpp.dir/array/set/USet.cpp.o CMakeFiles/cpp.dir/array/student_challenge/1.cpp.o CMakeFiles/cpp.dir/array/student_challenge/2.cpp.o CMakeFiles/cpp.dir/array/student_challenge/3.cpp.o CMakeFiles/cpp.dir/array/student_challenge/4.cpp.o CMakeFiles/cpp.dir/array/student_challenge/5.cpp.o CMakeFiles/cpp.dir/polynomial/array/PolyArr.cpp.o CMakeFiles/cpp.dir/polynomial/linked_list/PolyLL.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cpp.dir
   POST_BUILD = :
