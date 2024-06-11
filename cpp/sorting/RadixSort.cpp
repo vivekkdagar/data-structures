@@ -25,7 +25,7 @@ void radix_sort(vector<int> &A) {
     int max = *max_element(A.begin(), A.end()), n = A.size();
     int nPass = count_digits(max);
 
-    // Create a bins array of linked list having size = 10 (decimal has a base 10). List is the doubly linked list. I didn't use forward_list because I don't think it has to erase() method
+    // Create a bins array of linked lists having size = 10 (decimal has a base 10). List is the doubly linked lists. I didn't use forward_list because I don't think it has to erase() method
     vector<list<int>> bins;
     bins.resize(RADIX);
 

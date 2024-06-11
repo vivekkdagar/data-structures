@@ -1,6 +1,6 @@
 //
 // Created by vivekdagar on 6/10/24.
-// Insert and remove from a sorted linked list
+// Insert and remove from a sorted linked lists
 
 #include <iostream>
 #include "../types/singly/SinglyLL.h"
@@ -55,7 +55,7 @@ public:
         }
     }
 
-    // Remove duplicates from sorted linked list
+    // Remove duplicates from sorted linked lists
     void SortedRemove() {
         Node *p{head};
         Node *q = p->next;      // head->next

@@ -95,7 +95,30 @@
 				50,
 				51,
 				52,
-				54
+				54,
+				56,
+				58,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				80,
+				82,
+				84,
+				86,
+				87,
+				89,
+				91,
+				94,
+				96,
+				98,
+				100
 			]
 		}
 	],
@@ -174,7 +197,30 @@
 				50,
 				51,
 				52,
-				54
+				54,
+				56,
+				58,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				80,
+				82,
+				84,
+				86,
+				87,
+				89,
+				91,
+				94,
+				96,
+				98,
+				100
 			]
 		},
 		{
@@ -189,7 +235,29 @@
 				42,
 				45,
 				53,
-				55
+				55,
+				57,
+				60,
+				62,
+				64,
+				66,
+				68,
+				70,
+				72,
+				74,
+				76,
+				78,
+				79,
+				81,
+				83,
+				85,
+				88,
+				90,
+				92,
+				93,
+				95,
+				97,
+				99
 			]
 		}
 	],
@@ -204,63 +272,63 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linked list/types/singly/SinglyLL.cpp",
+			"path" : "linked lists/types/singly/SinglyLL.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "linked list/types/singly/SinglyLL.h",
+			"path" : "linked lists/types/singly/SinglyLL.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linked list/types/doubly/DoublyLL.cpp",
+			"path" : "linked lists/types/doubly/DoublyLL.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "linked list/types/doubly/DoublyLL.h",
+			"path" : "linked lists/types/doubly/DoublyLL.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linked list/types/circular/CircularLL.cpp",
+			"path" : "linked lists/types/circular/CircularLL.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "linked list/types/circular/CircularLL.h",
+			"path" : "linked lists/types/circular/CircularLL.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linked list/types/circular doubly/CDoublyLL.cpp",
+			"path" : "linked lists/types/circular doubly/CDoublyLL.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "linked list/types/circular doubly/CDoublyLL.h",
+			"path" : "linked lists/types/circular doubly/CDoublyLL.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linked list/problems/MergeTwoSortedLL.cpp",
+			"path" : "linked lists/problems/MergeTwoSortedLL.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linked list/problems/ReverseLLRecur.cpp",
+			"path" : "linked lists/problems/ReverseLLRecur.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linked list/problems/SortedLL.cpp",
+			"path" : "linked lists/problems/SortedLL.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -521,6 +589,254 @@
 			"backtrace" : 1,
 			"path" : "polynomial/linked list/PolyLL.h",
 			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "stack/implementation/array/StackArr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "stack/implementation/array/StackArr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "stack/implementation/linked list/StackLL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "stack/expression eval/ExprEvaluator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "stack/expression eval/ExprEvaluator.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "heap/Heap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "heap/Heap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/toeplitz matrix/Toeplitz.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/toeplitz matrix/Toeplitz.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/tridiagonal matrix/Tridiagonal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/tridiagonal matrix/Tridiagonal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/symmetric matrix/Symmetric.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/symmetric matrix/Symmetric.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/diagonal matrix/Diagonal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/diagonal matrix/Diagonal.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/sparse matrix/array/SparseArr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/sparse matrix/array/SparseArr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/sparse matrix/linked list/SparseLL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/sparse matrix/linked list/SparseLL.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/upper triangular matrix/UTMatrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/upper triangular matrix/UTMatrix.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "matrices/lower triangular matrix/LTMatrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "matrices/lower triangular matrix/LTMatrix.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "hashing/chaining/ChainHashing.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "hashing/chaining/ChainHashing.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "hashing/double hashing/DHtable.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "hashing/double hashing/DHtable.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "hashing/probing/linear/LProbingHT.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "hashing/probing/linear/LProbingHT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "hashing/probing/quadratic/QProbingHT.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "hashing/probing/quadratic/QProbingHT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "trees/avl tree/AVL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "trees/avl tree/AVL.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "trees/binary search tree/BST.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "trees/binary search tree/BST.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "trees/binary tree/Tree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "trees/binary tree/Tree.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "queues/two stacks/QTwoStacks.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "queues/two stacks/QTwoStacks.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "queues/array/linear/Queue.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "queues/array/linear/Queue.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "queues/array/circular/Cqueuee.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "queues/array/circular/CQueue.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "queues/array/dequeue/DEQUEUE.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "queues/array/dequeue/DEQUEUE.cpp",
+			"sourceGroupIndex" : 0
 		}
 	],
 	"type" : "EXECUTABLE"

@@ -55,47 +55,47 @@ build CMakeFiles/cpp.dir/main.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/viv
   OBJECT_DIR = CMakeFiles/cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp.dir
 
-build CMakeFiles/cpp.dir/linked_list/types/singly/SinglyLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ list/types/singly/SinglyLL.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/linked_list/types/singly/SinglyLL.cpp.o.d
+build CMakeFiles/cpp.dir/linked_lists/types/singly/SinglyLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ lists/types/singly/SinglyLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/linked_lists/types/singly/SinglyLL.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_list/types/singly
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_lists/types/singly
 
-build CMakeFiles/cpp.dir/linked_list/types/doubly/DoublyLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ list/types/doubly/DoublyLL.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/linked_list/types/doubly/DoublyLL.cpp.o.d
+build CMakeFiles/cpp.dir/linked_lists/types/doubly/DoublyLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ lists/types/doubly/DoublyLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/linked_lists/types/doubly/DoublyLL.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_list/types/doubly
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_lists/types/doubly
 
-build CMakeFiles/cpp.dir/linked_list/types/circular/CircularLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ list/types/circular/CircularLL.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/linked_list/types/circular/CircularLL.cpp.o.d
+build CMakeFiles/cpp.dir/linked_lists/types/circular/CircularLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ lists/types/circular/CircularLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/linked_lists/types/circular/CircularLL.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_list/types/circular
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_lists/types/circular
 
-build CMakeFiles/cpp.dir/linked_list/types/circular_doubly/CDoublyLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ list/types/circular$ doubly/CDoublyLL.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/linked_list/types/circular_doubly/CDoublyLL.cpp.o.d
+build CMakeFiles/cpp.dir/linked_lists/types/circular_doubly/CDoublyLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ lists/types/circular$ doubly/CDoublyLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/linked_lists/types/circular_doubly/CDoublyLL.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_list/types/circular_doubly
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_lists/types/circular_doubly
 
-build CMakeFiles/cpp.dir/linked_list/problems/MergeTwoSortedLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ list/problems/MergeTwoSortedLL.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/linked_list/problems/MergeTwoSortedLL.cpp.o.d
+build CMakeFiles/cpp.dir/linked_lists/problems/MergeTwoSortedLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ lists/problems/MergeTwoSortedLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/linked_lists/problems/MergeTwoSortedLL.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_list/problems
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_lists/problems
 
-build CMakeFiles/cpp.dir/linked_list/problems/ReverseLLRecur.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ list/problems/ReverseLLRecur.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/linked_list/problems/ReverseLLRecur.cpp.o.d
+build CMakeFiles/cpp.dir/linked_lists/problems/ReverseLLRecur.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ lists/problems/ReverseLLRecur.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/linked_lists/problems/ReverseLLRecur.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_list/problems
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_lists/problems
 
-build CMakeFiles/cpp.dir/linked_list/problems/SortedLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ list/problems/SortedLL.cpp || cmake_object_order_depends_target_cpp
-  DEP_FILE = CMakeFiles/cpp.dir/linked_list/problems/SortedLL.cpp.o.d
+build CMakeFiles/cpp.dir/linked_lists/problems/SortedLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/linked$ lists/problems/SortedLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/linked_lists/problems/SortedLL.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/cpp.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_list/problems
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/linked_lists/problems
 
 build CMakeFiles/cpp.dir/sorting/BubbleSort.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/sorting/BubbleSort.cpp || cmake_object_order_depends_target_cpp
   DEP_FILE = CMakeFiles/cpp.dir/sorting/BubbleSort.cpp.o.d
@@ -331,6 +331,144 @@ build CMakeFiles/cpp.dir/polynomial/linked_list/PolyLL.cpp.o: CXX_COMPILER__cpp_
   OBJECT_DIR = CMakeFiles/cpp.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp.dir/polynomial/linked_list
 
+build CMakeFiles/cpp.dir/stack/implementation/array/StackArr.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/stack/implementation/array/StackArr.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/stack/implementation/array/StackArr.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/stack/implementation/array
+
+build CMakeFiles/cpp.dir/stack/implementation/linked_list/StackLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/stack/implementation/linked$ list/StackLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/stack/implementation/linked_list/StackLL.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/stack/implementation/linked_list
+
+build CMakeFiles/cpp.dir/stack/expression_eval/ExprEvaluator.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/stack/expression$ eval/ExprEvaluator.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/stack/expression_eval/ExprEvaluator.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/stack/expression_eval
+
+build CMakeFiles/cpp.dir/heap/Heap.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/heap/Heap.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/heap/Heap.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/heap
+
+build CMakeFiles/cpp.dir/matrices/toeplitz_matrix/Toeplitz.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/toeplitz$ matrix/Toeplitz.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/toeplitz_matrix/Toeplitz.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/toeplitz_matrix
+
+build CMakeFiles/cpp.dir/matrices/tridiagonal_matrix/Tridiagonal.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/tridiagonal$ matrix/Tridiagonal.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/tridiagonal_matrix/Tridiagonal.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/tridiagonal_matrix
+
+build CMakeFiles/cpp.dir/matrices/symmetric_matrix/Symmetric.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/symmetric$ matrix/Symmetric.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/symmetric_matrix/Symmetric.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/symmetric_matrix
+
+build CMakeFiles/cpp.dir/matrices/diagonal_matrix/Diagonal.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/diagonal$ matrix/Diagonal.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/diagonal_matrix/Diagonal.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/diagonal_matrix
+
+build CMakeFiles/cpp.dir/matrices/sparse_matrix/array/SparseArr.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/sparse$ matrix/array/SparseArr.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/sparse_matrix/array/SparseArr.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/sparse_matrix/array
+
+build CMakeFiles/cpp.dir/matrices/sparse_matrix/linked_list/SparseLL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/sparse$ matrix/linked$ list/SparseLL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/sparse_matrix/linked_list/SparseLL.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/sparse_matrix/linked_list
+
+build CMakeFiles/cpp.dir/matrices/upper_triangular_matrix/UTMatrix.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/upper$ triangular$ matrix/UTMatrix.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/upper_triangular_matrix/UTMatrix.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/upper_triangular_matrix
+
+build CMakeFiles/cpp.dir/matrices/lower_triangular_matrix/LTMatrix.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/matrices/lower$ triangular$ matrix/LTMatrix.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/matrices/lower_triangular_matrix/LTMatrix.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/matrices/lower_triangular_matrix
+
+build CMakeFiles/cpp.dir/hashing/chaining/ChainHashing.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/hashing/chaining/ChainHashing.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/hashing/chaining/ChainHashing.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/hashing/chaining
+
+build CMakeFiles/cpp.dir/hashing/double_hashing/DHtable.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/hashing/double$ hashing/DHtable.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/hashing/double_hashing/DHtable.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/hashing/double_hashing
+
+build CMakeFiles/cpp.dir/hashing/probing/linear/LProbingHT.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/hashing/probing/linear/LProbingHT.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/hashing/probing/linear/LProbingHT.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/hashing/probing/linear
+
+build CMakeFiles/cpp.dir/hashing/probing/quadratic/QProbingHT.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/hashing/probing/quadratic/QProbingHT.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/hashing/probing/quadratic/QProbingHT.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/hashing/probing/quadratic
+
+build CMakeFiles/cpp.dir/trees/avl_tree/AVL.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/trees/avl$ tree/AVL.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/trees/avl_tree/AVL.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/trees/avl_tree
+
+build CMakeFiles/cpp.dir/trees/binary_search_tree/BST.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/trees/binary$ search$ tree/BST.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/trees/binary_search_tree/BST.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/trees/binary_search_tree
+
+build CMakeFiles/cpp.dir/trees/binary_tree/Tree.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/trees/binary$ tree/Tree.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/trees/binary_tree/Tree.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/trees/binary_tree
+
+build CMakeFiles/cpp.dir/queues/two_stacks/QTwoStacks.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/queues/two$ stacks/QTwoStacks.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/queues/two_stacks/QTwoStacks.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/queues/two_stacks
+
+build CMakeFiles/cpp.dir/queues/array/linear/Queue.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/queues/array/linear/Queue.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/queues/array/linear/Queue.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/queues/array/linear
+
+build CMakeFiles/cpp.dir/queues/array/circular/CQueue.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/queues/array/circular/CQueue.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/queues/array/circular/CQueue.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/queues/array/circular
+
+build CMakeFiles/cpp.dir/queues/array/dequeue/DEQUEUE.cpp.o: CXX_COMPILER__cpp_unscanned_Debug /home/vivekdagar/Documents/Code/data-structures/cpp/queues/array/dequeue/DEQUEUE.cpp || cmake_object_order_depends_target_cpp
+  DEP_FILE = CMakeFiles/cpp.dir/queues/array/dequeue/DEQUEUE.cpp.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp.dir/queues/array/dequeue
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpp
@@ -339,7 +477,7 @@ build CMakeFiles/cpp.dir/polynomial/linked_list/PolyLL.cpp.o: CXX_COMPILER__cpp_
 #############################################
 # Link the executable cpp
 
-build cpp: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/linked_list/types/singly/SinglyLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/doubly/DoublyLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/circular/CircularLL.cpp.o CMakeFiles/cpp.dir/linked_list/types/circular_doubly/CDoublyLL.cpp.o CMakeFiles/cpp.dir/linked_list/problems/MergeTwoSortedLL.cpp.o CMakeFiles/cpp.dir/linked_list/problems/ReverseLLRecur.cpp.o CMakeFiles/cpp.dir/linked_list/problems/SortedLL.cpp.o CMakeFiles/cpp.dir/sorting/BubbleSort.cpp.o CMakeFiles/cpp.dir/sorting/BucketSort.cpp.o CMakeFiles/cpp.dir/sorting/CountSort.cpp.o CMakeFiles/cpp.dir/sorting/InsertionSort.cpp.o CMakeFiles/cpp.dir/sorting/MergeSort.cpp.o CMakeFiles/cpp.dir/sorting/QuickSort.cpp.o CMakeFiles/cpp.dir/sorting/RadixSort.cpp.o CMakeFiles/cpp.dir/sorting/SelectionSort.cpp.o CMakeFiles/cpp.dir/sorting/ShellSort.cpp.o CMakeFiles/cpp.dir/graph/traversal/Graph.cpp.o CMakeFiles/cpp.dir/graph/kruskals.cpp.o CMakeFiles/cpp.dir/graph/prims.cpp.o CMakeFiles/cpp.dir/string/Anagram.cpp.o CMakeFiles/cpp.dir/string/FindDuplicates.cpp.o CMakeFiles/cpp.dir/string/InvertCase.cpp.o CMakeFiles/cpp.dir/string/LexicographicalCompare.cpp.o CMakeFiles/cpp.dir/string/Palindrome.cpp.o CMakeFiles/cpp.dir/string/Permutation.cpp.o CMakeFiles/cpp.dir/recursion/Fibonacci.cpp.o CMakeFiles/cpp.dir/recursion/TaylorSeries.cpp.o CMakeFiles/cpp.dir/recursion/Power.cpp.o CMakeFiles/cpp.dir/recursion/SumOfN.cpp.o CMakeFiles/cpp.dir/recursion/IndirectRecursion.cpp.o CMakeFiles/cpp.dir/recursion/NCR.cpp.o CMakeFiles/cpp.dir/recursion/NestedRecursion.cpp.o CMakeFiles/cpp.dir/recursion/StaticGlobal.cpp.o CMakeFiles/cpp.dir/recursion/TailHeadRecursion.cpp.o CMakeFiles/cpp.dir/recursion/TowerOfHanoi.cpp.o CMakeFiles/cpp.dir/recursion/TreeRecursion.cpp.o CMakeFiles/cpp.dir/array/problems/RearrangeNegatives.cpp.o CMakeFiles/cpp.dir/array/problems/ReverseAndShift.cpp.o CMakeFiles/cpp.dir/array/set/USet.cpp.o CMakeFiles/cpp.dir/array/student_challenge/1.cpp.o CMakeFiles/cpp.dir/array/student_challenge/2.cpp.o CMakeFiles/cpp.dir/array/student_challenge/3.cpp.o CMakeFiles/cpp.dir/array/student_challenge/4.cpp.o CMakeFiles/cpp.dir/array/student_challenge/5.cpp.o CMakeFiles/cpp.dir/polynomial/array/PolyArr.cpp.o CMakeFiles/cpp.dir/polynomial/linked_list/PolyLL.cpp.o
+build cpp: CXX_EXECUTABLE_LINKER__cpp_Debug CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/linked_lists/types/singly/SinglyLL.cpp.o CMakeFiles/cpp.dir/linked_lists/types/doubly/DoublyLL.cpp.o CMakeFiles/cpp.dir/linked_lists/types/circular/CircularLL.cpp.o CMakeFiles/cpp.dir/linked_lists/types/circular_doubly/CDoublyLL.cpp.o CMakeFiles/cpp.dir/linked_lists/problems/MergeTwoSortedLL.cpp.o CMakeFiles/cpp.dir/linked_lists/problems/ReverseLLRecur.cpp.o CMakeFiles/cpp.dir/linked_lists/problems/SortedLL.cpp.o CMakeFiles/cpp.dir/sorting/BubbleSort.cpp.o CMakeFiles/cpp.dir/sorting/BucketSort.cpp.o CMakeFiles/cpp.dir/sorting/CountSort.cpp.o CMakeFiles/cpp.dir/sorting/InsertionSort.cpp.o CMakeFiles/cpp.dir/sorting/MergeSort.cpp.o CMakeFiles/cpp.dir/sorting/QuickSort.cpp.o CMakeFiles/cpp.dir/sorting/RadixSort.cpp.o CMakeFiles/cpp.dir/sorting/SelectionSort.cpp.o CMakeFiles/cpp.dir/sorting/ShellSort.cpp.o CMakeFiles/cpp.dir/graph/traversal/Graph.cpp.o CMakeFiles/cpp.dir/graph/kruskals.cpp.o CMakeFiles/cpp.dir/graph/prims.cpp.o CMakeFiles/cpp.dir/string/Anagram.cpp.o CMakeFiles/cpp.dir/string/FindDuplicates.cpp.o CMakeFiles/cpp.dir/string/InvertCase.cpp.o CMakeFiles/cpp.dir/string/LexicographicalCompare.cpp.o CMakeFiles/cpp.dir/string/Palindrome.cpp.o CMakeFiles/cpp.dir/string/Permutation.cpp.o CMakeFiles/cpp.dir/recursion/Fibonacci.cpp.o CMakeFiles/cpp.dir/recursion/TaylorSeries.cpp.o CMakeFiles/cpp.dir/recursion/Power.cpp.o CMakeFiles/cpp.dir/recursion/SumOfN.cpp.o CMakeFiles/cpp.dir/recursion/IndirectRecursion.cpp.o CMakeFiles/cpp.dir/recursion/NCR.cpp.o CMakeFiles/cpp.dir/recursion/NestedRecursion.cpp.o CMakeFiles/cpp.dir/recursion/StaticGlobal.cpp.o CMakeFiles/cpp.dir/recursion/TailHeadRecursion.cpp.o CMakeFiles/cpp.dir/recursion/TowerOfHanoi.cpp.o CMakeFiles/cpp.dir/recursion/TreeRecursion.cpp.o CMakeFiles/cpp.dir/array/problems/RearrangeNegatives.cpp.o CMakeFiles/cpp.dir/array/problems/ReverseAndShift.cpp.o CMakeFiles/cpp.dir/array/set/USet.cpp.o CMakeFiles/cpp.dir/array/student_challenge/1.cpp.o CMakeFiles/cpp.dir/array/student_challenge/2.cpp.o CMakeFiles/cpp.dir/array/student_challenge/3.cpp.o CMakeFiles/cpp.dir/array/student_challenge/4.cpp.o CMakeFiles/cpp.dir/array/student_challenge/5.cpp.o CMakeFiles/cpp.dir/polynomial/array/PolyArr.cpp.o CMakeFiles/cpp.dir/polynomial/linked_list/PolyLL.cpp.o CMakeFiles/cpp.dir/stack/implementation/array/StackArr.cpp.o CMakeFiles/cpp.dir/stack/implementation/linked_list/StackLL.cpp.o CMakeFiles/cpp.dir/stack/expression_eval/ExprEvaluator.cpp.o CMakeFiles/cpp.dir/heap/Heap.cpp.o CMakeFiles/cpp.dir/matrices/toeplitz_matrix/Toeplitz.cpp.o CMakeFiles/cpp.dir/matrices/tridiagonal_matrix/Tridiagonal.cpp.o CMakeFiles/cpp.dir/matrices/symmetric_matrix/Symmetric.cpp.o CMakeFiles/cpp.dir/matrices/diagonal_matrix/Diagonal.cpp.o CMakeFiles/cpp.dir/matrices/sparse_matrix/array/SparseArr.cpp.o CMakeFiles/cpp.dir/matrices/sparse_matrix/linked_list/SparseLL.cpp.o CMakeFiles/cpp.dir/matrices/upper_triangular_matrix/UTMatrix.cpp.o CMakeFiles/cpp.dir/matrices/lower_triangular_matrix/LTMatrix.cpp.o CMakeFiles/cpp.dir/hashing/chaining/ChainHashing.cpp.o CMakeFiles/cpp.dir/hashing/double_hashing/DHtable.cpp.o CMakeFiles/cpp.dir/hashing/probing/linear/LProbingHT.cpp.o CMakeFiles/cpp.dir/hashing/probing/quadratic/QProbingHT.cpp.o CMakeFiles/cpp.dir/trees/avl_tree/AVL.cpp.o CMakeFiles/cpp.dir/trees/binary_search_tree/BST.cpp.o CMakeFiles/cpp.dir/trees/binary_tree/Tree.cpp.o CMakeFiles/cpp.dir/queues/two_stacks/QTwoStacks.cpp.o CMakeFiles/cpp.dir/queues/array/linear/Queue.cpp.o CMakeFiles/cpp.dir/queues/array/circular/CQueue.cpp.o CMakeFiles/cpp.dir/queues/array/dequeue/DEQUEUE.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/cpp.dir
   POST_BUILD = :
